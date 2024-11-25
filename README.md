@@ -38,5 +38,5 @@ Executando:
 
  4) #rank    
    
-   Exibe o ranking dos corredores do mês vigente
+    Exibe o ranking dos corredores do mês vigente
  
